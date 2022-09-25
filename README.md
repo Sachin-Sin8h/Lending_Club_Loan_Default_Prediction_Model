@@ -1,5 +1,5 @@
 # Lending_Club_Loan_Default_Prediction_Model
-Loan default prediction model using Logistics Regression.
+Loan default prediction model using Logistic Regression.
 # Introduction:
 This project is based on famous Lending_Club case. 
 Lending club is a U.S based peer-to-peer lending platform. 
